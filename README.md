@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfefkan
 - 👀 I’m interested in Software Technologies
-- 🌱 I’m currently learning about C#
+- 🌱 I’m currently learning about Angular
 
 
 <!---
